@@ -1,0 +1,30 @@
+{
+  "name": "once-upon-a-mud-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadbox/once-upon-a-mud.git"
+  },
+  "author": "Jonathan Dunlap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadbox/once-upon-a-mud/issues"
+  },
+  "homepage": "https://github.com/jadbox/once-upon-a-mud#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "lodash": "^4.17.4",
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

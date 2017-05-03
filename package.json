@@ -1,0 +1,19 @@
+{
+  "name": "once-upon-a-mud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadbox/once-upon-a-mud.git"
+  },
+  "author": "Jonathan Dunlap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadbox/once-upon-a-mud/issues"
+  },
+  "homepage": "https://github.com/jadbox/once-upon-a-mud#readme"
+}
